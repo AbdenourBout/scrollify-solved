@@ -3,7 +3,7 @@ $(function() {
   $.scrollify({
 
     section: "section",
-
+sectionName: false
   });
 
 });
